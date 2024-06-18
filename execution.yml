@@ -6,5 +6,7 @@ execution:
 
 scenarios:
   quick-test:
+    requests:
+    - https://google.com
 
 
